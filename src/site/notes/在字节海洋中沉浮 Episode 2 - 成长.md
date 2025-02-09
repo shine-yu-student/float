@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/在字节海洋中沉浮 Episode 2 - 成长/"}
+{"dg-publish":true,"permalink":"/在字节海洋中沉浮 Episode 2 - 成长/","tags":["gardenEntry"]}
 ---
 
 前编：[在字节海洋中沉浮 Episode 1 - 稚嫩](https://www.cnblogs.com/SyuAyaka/p/-/byteworld)
