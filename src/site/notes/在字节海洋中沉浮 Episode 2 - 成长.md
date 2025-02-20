@@ -11,7 +11,7 @@
 [[2025-1/2025-1\|2025-1]]
 ## February 2025 / Forwarding
 [[2025-2/2025-2\|2025-2]]
-### Extend 1 / GDOI 2025 / A Great Fall
+### Extend 1 / GDOI 2025 / A Great Fantasy about Work and Play
 [[GDOI 2025 游记\|GDOI 2025 游记]]
 ## Appendix 1 / Reading
 [[读《儒林外史》小记\|读《儒林外史》小记]]
