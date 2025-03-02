@@ -11,6 +11,8 @@
 [[2025-1/2025-1\|2025-1]]
 ## February 2025 / Forwarding
 [[2025-2/2025-2\|2025-2]]
+## March 2025 / Reset
+[[2025-3/2025-3\|2025-3]]
 ### Extend 1 / GDOI 2025 / A Great Fantasy about Work and Play
 [[GDOI 2025 游记\|GDOI 2025 游记]]
 ## Appendix 1 / Reading
