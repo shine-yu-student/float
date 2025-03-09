@@ -14,6 +14,6 @@
 ## March 2025 / Reset
 [[2025-3/2025-3\|2025-3]]
 ### Extend 1 / GDOI 2025 / A Great Fantasy about Work and Play
-[[GDOI 2025 游记\|GDOI 2025 游记]]
+[[travel/GDOI 2025 游记\|GDOI 2025 游记]]
 ## Appendix 1 / Reading
-[[读《儒林外史》小记\|读《儒林外史》小记]]
+[[儒林外史/读《儒林外史》小记\|读《儒林外史》小记]]
