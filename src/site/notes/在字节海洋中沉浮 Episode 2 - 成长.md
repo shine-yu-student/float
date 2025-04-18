@@ -17,5 +17,7 @@
 [[2025-4/2025-4\|2025-4]]
 ### Extend 1 / GDOI 2025 / A Great Fantasy about Work and Play
 [[travel/GDOI 2025 游记\|GDOI 2025 游记]]
+## Extend 2 / 2025 广东省队集训 / Facing the Challenge, Turning the Direction
+[[travel/2025 广东省队集训游记\|2025 广东省队集训游记]]
 ## Appendix 1 / Reading
 [[儒林外史/读《儒林外史》小记\|读《儒林外史》小记]]
