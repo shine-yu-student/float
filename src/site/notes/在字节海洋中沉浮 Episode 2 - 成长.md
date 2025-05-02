@@ -15,6 +15,8 @@
 [[2025-3/2025-3\|2025-3]]
 ## April 2025 / Lie
 [[2025-4/2025-4\|2025-4]]
+## May 2025 / May I Have Your "Destiny" Please
+[[2025-5/2025-5\|2025-5]]
 ### Extend 1 / GDOI 2025 / A Great Fantasy about Work and Play
 [[travel/GDOI 2025 游记\|GDOI 2025 游记]]
 ## Extend 2 / 2025 广东省队集训 / Facing the Challenge, Turning the Direction
