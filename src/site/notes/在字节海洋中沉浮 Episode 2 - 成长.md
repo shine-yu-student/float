@@ -17,6 +17,8 @@
 [[2025-4/2025-4\|2025-4]]
 ## May 2025 / May I Have Your "Destiny" Please
 [[2025-5/2025-5\|2025-5]]
+## June 2025 / Where The "Portal" Shows Its Shape
+[[2025-6/2025-6\|2025-6]]
 ### Extend 1 / GDOI 2025 / A Great Fantasy about Work and Play
 [[travel/GDOI 2025 游记\|GDOI 2025 游记]]
 ## Extend 2 / 2025 广东省队集训 / Facing the Challenge, Turning the Direction
