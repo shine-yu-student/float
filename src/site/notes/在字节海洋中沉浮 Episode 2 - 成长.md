@@ -19,6 +19,8 @@
 [[2025-5/2025-5\|2025-5]]
 ## June 2025 / Where The "Portal" Shows Its Shape
 [[2025-6/2025-6\|2025-6]]
+## July 2025 / On the Way Towards Dead or Alive
+[[2025-7/2025-7\|2025-7]]
 ### Extend 1 / GDOI 2025 / A Great Fantasy about Work and Play
 [[travel/GDOI 2025 游记\|GDOI 2025 游记]]
 ## Extend 2 / 2025 广东省队集训 / Facing the Challenge, Turning the Direction
