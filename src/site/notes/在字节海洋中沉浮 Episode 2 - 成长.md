@@ -21,12 +21,13 @@
 [[2025-6/2025-6\|2025-6]]
 ## July 2025 / On the Way Towards Dead or Alive
 [[2025-7/2025-7\|2025-7]]
-### Extend 1 / GDOI 2025 / A Great Fantasy about Work and Play
+## September 2025 / O fortuna velut luna statu variabilis
+[[2025-9/2025-9\|2025-9]]
+## Extend 1 / GDOI 2025 / A Great Fantasy about Work and Play
 [[travel/GDOI 2025 游记\|GDOI 2025 游记]]
 ## Extend 2 / 2025 广东省队集训 / Facing the Challenge, Turning the Direction
 [[travel/2025 广东省队集训游记\|2025 广东省队集训游记]]
 ## Extend 3 / NOI 2025 离线参加 / My Virtual NOI in 2025
 [[travel/My Virtual NOI in 2025\|My Virtual NOI in 2025]]
-
 ## Appendix 1 / Reading
 [[儒林外史/读《儒林外史》小记\|读《儒林外史》小记]]
