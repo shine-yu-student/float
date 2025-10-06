@@ -23,6 +23,8 @@
 [[2025-7/2025-7\|2025-7]]
 ## September 2025 / O fortuna velut luna statu variabilis
 [[2025-9/2025-9\|2025-9]]
+## October 2025 / Another Month, Another Beginning
+[[2025-10/2025-10\|2025-10]]
 ## Extend 1 / GDOI 2025 / A Great Fantasy about Work and Play
 [[travel/GDOI 2025 游记\|GDOI 2025 游记]]
 ## Extend 2 / 2025 广东省队集训 / Facing the Challenge, Turning the Direction
