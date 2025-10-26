@@ -31,5 +31,7 @@
 [[travel/2025 广东省队集训游记\|2025 广东省队集训游记]]
 ## Extend 3 / NOI 2025 离线参加 / My Virtual NOI in 2025
 [[travel/My Virtual NOI in 2025\|My Virtual NOI in 2025]]
+## Extend 4 / CSP-S 2025 / Candidate Ascension
+[[travel/CSP-S 2025 游记\|CSP-S 2025 游记]]
 ## Appendix 1 / Reading
 [[儒林外史/读《儒林外史》小记\|读《儒林外史》小记]]
