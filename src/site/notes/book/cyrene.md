@@ -18,3 +18,7 @@
 [[book/cyrene/2026-6-30\|2026-6-30]]
 ## Krisi / 2026-7-1
 [[book/cyrene/2026-7-1\|2026-7-1]]
+
+---
+## Alt / Full Context
+[[book/cyrene_full\|cyrene_full]]
