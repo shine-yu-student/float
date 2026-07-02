@@ -18,6 +18,8 @@
 [[book/cyrene/2026-6-30\|2026-6-30]]
 ## Krisi / 2026-7-1
 [[book/cyrene/2026-7-1\|2026-7-1]]
+## Nim, Deterministic / 2026-7-2
+[[book/cyrene/2026-7-2\|2026-7-2]]
 
 ---
 ## Alt / Full Context
