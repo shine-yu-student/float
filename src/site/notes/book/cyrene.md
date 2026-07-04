@@ -24,3 +24,7 @@
 ---
 ## Alt / Full Context
 [[book/cyrene_full\|cyrene_full]]
+
+---
+## 世界之外
+[[book/falter\|falter]]
