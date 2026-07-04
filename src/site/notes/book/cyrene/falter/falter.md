@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book/cyrene/falter/"}
+{"dg-publish":true,"permalink":"/book/cyrene/falter/falter/"}
 ---
 
 ## 怨念 #1

@@ -27,4 +27,4 @@
 
 ---
 ## 世界之外
-[[book/falter\|falter]]
+[[book/cyrene/falter/falter\|falter]]
