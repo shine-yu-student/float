@@ -20,6 +20,8 @@
 [[book/cyrene/2026-7-1\|2026-7-1]]
 ## Nim, Deterministic / 2026-7-2
 [[book/cyrene/2026-7-2\|2026-7-2]]
+## Trial-and-Error, Under the Bless of "Moonlight" / 2026-7-5
+[[book/cyrene/2026-7-5\|2026-7-5]]
 
 ---
 ## Alt / Full Context
