@@ -24,6 +24,8 @@
 [[book/cyrene/2026-7-5\|2026-7-5]]
 ## "Black Box" / 2026-7-6
 [[book/cyrene/2026-7-6\|2026-7-6]]
+## Uni-form / 2026-7-9
+[[book/cyrene/2026-7-9\|2026-7-9]]
 
 ---
 ## Alt / Full Context
