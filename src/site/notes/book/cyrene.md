@@ -30,6 +30,8 @@
 [[book/cyrene/2026-7-10\|2026-7-10]]
 ## "Completely" Identical / 2026-7-11
 [[book/cyrene/2026-7-11\|2026-7-11]]
+## Synka / 2026-7-12
+[[book/cyrene/2026-7-12\|2026-7-12]]
 
 ---
 ## Alt / Full Context
