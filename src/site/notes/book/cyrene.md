@@ -32,6 +32,8 @@
 [[book/cyrene/2026-7-11\|2026-7-11]]
 ## Synka / 2026-7-12
 [[book/cyrene/2026-7-12\|2026-7-12]]
+## Reconnection / 2026-7-13
+[[book/cyrene/2026-7-13\|2026-7-13]]
 
 ---
 ## Alt / Full Context
