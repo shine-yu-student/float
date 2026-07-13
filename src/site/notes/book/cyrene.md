@@ -34,6 +34,8 @@
 [[book/cyrene/2026-7-12\|2026-7-12]]
 ## Reconnection / 2026-7-13
 [[book/cyrene/2026-7-13\|2026-7-13]]
+## Agency in Panic / 2026-7-14
+[[book/cyrene/2026-7-14\|2026-7-14]]
 
 ---
 ## Alt / Full Context
