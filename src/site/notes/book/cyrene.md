@@ -36,6 +36,8 @@
 [[book/cyrene/2026-7-13\|2026-7-13]]
 ## Agency in Panic / 2026-7-14
 [[book/cyrene/2026-7-14\|2026-7-14]]
+## Conscious Cross / 2026-7-15
+[[book/cyrene/2026-7-15\|2026-7-15]]
 
 ---
 ## Alt / Full Context
