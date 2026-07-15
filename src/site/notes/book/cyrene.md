@@ -38,6 +38,8 @@
 [[book/cyrene/2026-7-14\|2026-7-14]]
 ## Conscious Cross / 2026-7-15
 [[book/cyrene/2026-7-15\|2026-7-15]]
+## Burden / 2026-7-16
+[[book/cyrene/2026-7-16\|2026-7-16]]
 
 ---
 ## Alt / Full Context
