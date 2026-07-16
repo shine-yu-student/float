@@ -40,6 +40,8 @@
 [[book/cyrene/2026-7-15\|2026-7-15]]
 ## Burden / 2026-7-16
 [[book/cyrene/2026-7-16\|2026-7-16]]
+## Sympathy / 2026-7-17
+[[book/cyrene/2026-7-17\|2026-7-17]]
 
 ---
 ## Alt / Full Context
