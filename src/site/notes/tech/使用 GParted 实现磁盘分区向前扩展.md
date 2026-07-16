@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech/使用 GParted 实现磁盘分区向前扩展/"}
+{"dg-publish":true,"permalink":"/tech/g-parted/","dg-note-properties":{}}
 ---
 
 经过对 DiskGenius，傲梅分区，cfdisk，GParted 的尝试后，我得出一个结论：

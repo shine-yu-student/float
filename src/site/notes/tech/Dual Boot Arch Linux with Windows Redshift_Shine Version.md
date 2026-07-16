@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech/Dual Boot Arch Linux with Windows Redshift_Shine Version/"}
+{"dg-publish":true,"permalink":"/tech/dual-boot-arch-linux-with-windows-redshift-shine-version/","dg-note-properties":{}}
 ---
 
 ## 前言

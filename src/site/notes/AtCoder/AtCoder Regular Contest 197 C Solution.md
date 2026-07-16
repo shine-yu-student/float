@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AtCoder/AtCoder Regular Contest 197 C Solution/"}
+{"dg-publish":true,"permalink":"/at-coder/at-coder-regular-contest-197-c-solution/","dg-note-properties":{}}
 ---
 
 ## 题意

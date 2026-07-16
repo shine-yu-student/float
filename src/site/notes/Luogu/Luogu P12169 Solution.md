@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Luogu/Luogu P12169 Solution/"}
+{"dg-publish":true,"permalink":"/luogu/luogu-p12169-solution/","dg-note-properties":{}}
 ---
 
 ## 背景

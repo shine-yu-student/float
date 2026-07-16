@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book/cyrene/"}
+{"dg-publish":true,"permalink":"/book/cyrene/","dg-note-properties":{}}
 ---
 
 ## 开端 / 2026-5-28

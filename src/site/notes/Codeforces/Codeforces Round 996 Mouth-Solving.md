@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Codeforces/Codeforces Round 996 Mouth-Solving/"}
+{"dg-publish":true,"permalink":"/codeforces/codeforces-round-996-mouth-solving/","dg-note-properties":{}}
 ---
 
 ## A

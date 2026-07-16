@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Luogu/Luogu P11830 Solution/"}
+{"dg-publish":true,"permalink":"/luogu/luogu-p11830-solution/","dg-note-properties":{}}
 ---
 
 ## 前言

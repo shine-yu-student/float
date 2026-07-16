@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/Deepseek R1 Benchmark - Based on Algo Beat Contest 001/"}
+{"dg-publish":true,"permalink":"/misc/deepseek-r1-benchmark-based-on-algo-beat-contest-001/","dg-note-properties":{}}
 ---
 
 ## Dialogue Link

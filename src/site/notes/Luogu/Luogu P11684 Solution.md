@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Luogu/Luogu P11684 Solution/"}
+{"dg-publish":true,"permalink":"/luogu/luogu-p11684-solution/","dg-note-properties":{}}
 ---
 
 确实挺 Foolish 的。

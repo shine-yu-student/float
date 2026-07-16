@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AtCoder/AtCoder Beginner Contest 404 G Solution/"}
+{"dg-publish":true,"permalink":"/at-coder/at-coder-beginner-contest-404-g-solution/","dg-note-properties":{}}
 ---
 
 ## 背景

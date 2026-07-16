@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AtCoder/AtCoder Beginner Contest 394 Review/"}
+{"dg-publish":true,"permalink":"/at-coder/at-coder-beginner-contest-394-review/","dg-note-properties":{}}
 ---
 
 ## 闲话

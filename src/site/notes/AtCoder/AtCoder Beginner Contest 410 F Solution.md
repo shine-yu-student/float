@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AtCoder/AtCoder Beginner Contest 410 F Solution/"}
+{"dg-publish":true,"permalink":"/at-coder/at-coder-beginner-contest-410-f-solution/","dg-note-properties":{}}
 ---
 
 ## 前言

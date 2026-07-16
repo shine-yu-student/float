@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Luogu/Luogu P13280 Solution/"}
+{"dg-publish":true,"permalink":"/luogu/luogu-p13280-solution/","dg-note-properties":{}}
 ---
 
 解决本题的前提是意识到了以下两个**关键**的条件：

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/在字节海洋中沉浮 Episode 2 - 成长/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/episode-2/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 前编：[在字节海洋中沉浮 Episode 1 - 稚嫩](https://www.cnblogs.com/SyuAyaka/p/-/byteworld)
@@ -38,4 +38,4 @@
 ## Appendix 2 / 羽丝绫，Cyrene，世界
 [[book/cyrene\|cyrene]]
 ## Appendix 3 / 怨念
-[[book/falter/falter\|falter]]
+[[book/falter\|falter]]

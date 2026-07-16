@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Luogu/Luogu P2444 Solution/"}
+{"dg-publish":true,"permalink":"/luogu/luogu-p2444-solution/","dg-note-properties":{}}
 ---
 
 ## 前言

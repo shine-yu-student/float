@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Luogu/Luogu P11681 Solution/"}
+{"dg-publish":true,"permalink":"/luogu/luogu-p11681-solution/","dg-note-properties":{}}
 ---
 
 应该是这场比赛除了 G 之外最有思维难度的题。

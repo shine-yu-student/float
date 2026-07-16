@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Luogu/Luogu P11961 Solution/"}
+{"dg-publish":true,"permalink":"/luogu/luogu-p11961-solution/","dg-note-properties":{}}
 ---
 
 明天就要月考了，但是看到这道题还是想写一下。

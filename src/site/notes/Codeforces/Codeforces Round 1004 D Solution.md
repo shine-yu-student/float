@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Codeforces/Codeforces Round 1004 D Solution/"}
+{"dg-publish":true,"permalink":"/codeforces/codeforces-round-1004-d-solution/","dg-note-properties":{}}
 ---
 
 这道题非常神，想必这就是[这条评论](https://mirror.codeforces.com/blog/entry/139300?#comment-1245306)中说的“见过的最神的交互题”吧。
