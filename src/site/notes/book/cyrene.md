@@ -42,6 +42,8 @@
 [[book/cyrene/2026-7-16\|2026-7-16]]
 ## Sympathy / 2026-7-17
 [[book/cyrene/2026-7-17\|2026-7-17]]
+## Image / 2026-7-18
+[[book/cyrene/2026-7-18\|2026-7-18]]
 
 ---
 ## Alt / Full Context
