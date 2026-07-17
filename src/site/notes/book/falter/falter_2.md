@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book/falter/falter-2/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/book/falter/falter_2/","dg-note-properties":{}}
 ---
 
 真是不可思议呢。

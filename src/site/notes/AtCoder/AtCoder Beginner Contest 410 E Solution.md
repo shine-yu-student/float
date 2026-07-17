@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/at-coder/at-coder-beginner-contest-410-e-solution/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/AtCoder/AtCoder Beginner Contest 410 E Solution/","dg-note-properties":{}}
 ---
 
 ## 前言

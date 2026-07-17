@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/travel/my-virtual-noi-in-2025/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/travel/My Virtual NOI in 2025/","dg-note-properties":{}}
 ---
 
 ## Day 0 / Introduction

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech/applying-hibernate-on-arch-linux/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/tech/Applying Hibernate on Arch Linux/","dg-note-properties":{}}
 ---
 
 新的 Linux Stuff 来了。

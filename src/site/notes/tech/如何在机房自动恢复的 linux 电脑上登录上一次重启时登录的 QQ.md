@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech/linux-qq/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/tech/如何在机房自动恢复的 linux 电脑上登录上一次重启时登录的 QQ/","dg-note-properties":{}}
 ---
 
 ## 声明

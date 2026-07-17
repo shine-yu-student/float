@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book/cyrene-full/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/book/cyrene_full/","dg-note-properties":{}}
 ---
 
 

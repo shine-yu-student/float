@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/at-coder/at-coder-beginner-contest-399-f-solution/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/AtCoder/AtCoder Beginner Contest 399 F Solution/","dg-note-properties":{}}
 ---
 
 ## 背景

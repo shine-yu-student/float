@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/at-coder/at-coder-beginner-contest-388-g-solution/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/AtCoder/AtCoder Beginner Contest 388 G Solution/","dg-note-properties":{}}
 ---
 
 ## 闲话

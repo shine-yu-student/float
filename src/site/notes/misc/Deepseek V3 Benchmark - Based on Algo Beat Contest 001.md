@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/deepseek-v3-benchmark-based-on-algo-beat-contest-001/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/misc/Deepseek V3 Benchmark - Based on Algo Beat Contest 001/","dg-note-properties":{}}
 ---
 
 ## Dialogue Link

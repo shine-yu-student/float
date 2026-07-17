@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book/falter/falter-1/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/book/falter/falter_1/","dg-note-properties":{}}
 ---
 
 教室向外的一侧有四扇窗户。作为值日生，每次轮到我们组值周时，我需要拿出抹布，将那四扇窗户的里面和外面都擦一遍。

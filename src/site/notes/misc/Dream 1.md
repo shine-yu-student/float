@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/misc/dream-1/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/misc/Dream 1/","dg-note-properties":{}}
 ---
 
 嘈杂。

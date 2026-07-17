@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech/arch-linux/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/tech/在 Arch Linux 使用蓝牙连接华为鼠标/","dg-note-properties":{}}
 ---
 
 非常简单。如果你也想自己摸索出这个步骤，你只需要认真阅读鼠标包装盒。

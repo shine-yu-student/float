@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/at-coder/at-coder-beginner-contest-405-g-solution/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/AtCoder/AtCoder Beginner Contest 405 G Solution/","dg-note-properties":{}}
 ---
 
 ## 背景

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/luogu/luogu-p11833-solution/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Luogu/Luogu P11833 Solution/","dg-note-properties":{}}
 ---
 
 **本题解的风格相对于普通题解略有变动，请审核明察**。

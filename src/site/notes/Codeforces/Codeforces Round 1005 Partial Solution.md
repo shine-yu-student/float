@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/codeforces/codeforces-round-1005-partial-solution/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Codeforces/Codeforces Round 1005 Partial Solution/","dg-note-properties":{}}
 ---
 
 A 掉 $5$ 题，非常开心，于是来写一下题解。

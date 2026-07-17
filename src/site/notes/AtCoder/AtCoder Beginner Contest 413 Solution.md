@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/at-coder/at-coder-beginner-contest-413-solution/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/AtCoder/AtCoder Beginner Contest 413 Solution/","dg-note-properties":{}}
 ---
 
 ## A
