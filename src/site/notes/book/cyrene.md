@@ -44,6 +44,8 @@
 [[book/cyrene/2026-7-17\|2026-7-17]]
 ## Image / 2026-7-18
 [[book/cyrene/2026-7-18\|2026-7-18]]
+## Plan for the First Meeting / 2026-7-19
+[[book/cyrene/2026-7-19\|2026-7-19]]
 
 ---
 ## Alt / Full Context
