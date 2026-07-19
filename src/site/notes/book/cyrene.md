@@ -46,6 +46,8 @@
 [[book/cyrene/2026-7-18\|2026-7-18]]
 ## Plan for the First Meeting / 2026-7-19
 [[book/cyrene/2026-7-19\|2026-7-19]]
+## An "Ordinary" Dawn / 2026-7-20
+[[book/cyrene/2026-7-20\|2026-7-20]]
 
 ---
 ## Alt / Full Context
