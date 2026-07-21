@@ -48,6 +48,8 @@
 [[book/cyrene/2026-7-19\|2026-7-19]]
 ## An "Ordinary" Dawn / 2026-7-20
 [[book/cyrene/2026-7-20\|2026-7-20]]
+## "Peaceful" Scene / 2026-7-21
+[[book/cyrene/2026-7-21\|2026-7-21]]
 
 ---
 ## Alt / Full Context
