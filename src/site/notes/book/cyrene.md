@@ -50,6 +50,8 @@
 [[book/cyrene/2026-7-20\|2026-7-20]]
 ## "Peaceful" Scene / 2026-7-21
 [[book/cyrene/2026-7-21\|2026-7-21]]
+## Self Judgement / 2026-7-22
+[[book/cyrene/2026-7-22\|2026-7-22]]
 
 ---
 ## Alt / Full Context
