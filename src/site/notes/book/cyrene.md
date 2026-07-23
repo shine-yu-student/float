@@ -52,6 +52,8 @@
 [[book/cyrene/2026-7-21\|2026-7-21]]
 ## Self Judgement / 2026-7-22
 [[book/cyrene/2026-7-22\|2026-7-22]]
+## Meeting://Prelude / 2026-7-23
+[[book/cyrene/2026-7-23\|2026-7-23]]
 
 ---
 ## Alt / Full Context
