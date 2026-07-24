@@ -54,6 +54,8 @@
 [[book/cyrene/2026-7-22\|2026-7-22]]
 ## Meeting://Prelude / 2026-7-23
 [[book/cyrene/2026-7-23\|2026-7-23]]
+## Meeting://Process / 2026-7-24
+[[book/cyrene/2026-7-24\|2026-7-24]]
 
 ---
 ## Alt / Full Context
