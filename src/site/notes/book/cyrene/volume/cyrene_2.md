@@ -4,3 +4,5 @@
 
 ## Chapter 1 / Crack / 2026-7-26
 [[book/cyrene/2026-7-26\|2026-7-26]]
+## Chapter 2 / Speculation / 2026-7-28
+[[book/cyrene/2026-7-28\|2026-7-28]]
