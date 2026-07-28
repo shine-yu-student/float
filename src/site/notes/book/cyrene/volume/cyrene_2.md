@@ -6,3 +6,5 @@
 [[book/cyrene/2026-7-26\|2026-7-26]]
 ## Chapter 2 / Speculation / 2026-7-28
 [[book/cyrene/2026-7-28\|2026-7-28]]
+## Chapter 3 / Revisit / 2026-7-29
+[[book/cyrene/2026-7-29\|2026-7-29]] (WIP)
