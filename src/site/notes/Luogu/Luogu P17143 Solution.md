@@ -4,7 +4,7 @@
 
 原数据下的题目：好题。
 QOJ Extra Test：nm。
-由以上文字可知，以下解法无法通过 QOJ Extra Test \#7，只能获得 97 分。可以通过原数据。
+由以上文字可知，以下解法无法通过 QOJ Extra Test 7，只能获得 97 分。可以通过原数据。
 [洛谷题目链接](https://www.luogu.com.cn/problem/P17143)。
 
 ---
