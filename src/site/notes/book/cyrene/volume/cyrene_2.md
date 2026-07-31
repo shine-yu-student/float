@@ -8,3 +8,5 @@
 [[book/cyrene/2026-7-28\|2026-7-28]]
 ## Chapter 3 / "Sister" / 2026-7-29
 [[book/cyrene/2026-7-29\|2026-7-29]]
+## Chapter 4 / Foreseen Contact / 2026-7-30
+[[book/cyrene/2026-7-30\|2026-7-30]]
