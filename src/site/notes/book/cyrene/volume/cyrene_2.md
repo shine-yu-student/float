@@ -10,3 +10,5 @@
 [[book/cyrene/2026-7-29\|2026-7-29]]
 ## Chapter 4 / Foreseen Contact / 2026-7-30
 [[book/cyrene/2026-7-30\|2026-7-30]]
+## Chapter 5 / Card / 2026-8-20
+[[book/cyrene/2026-8-20\|2026-8-20]]
