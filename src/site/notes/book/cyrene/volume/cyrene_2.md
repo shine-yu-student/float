@@ -12,3 +12,5 @@
 [[book/cyrene/2026-7-30\|2026-7-30]]
 ## Chapter 5 / Card / 2026-8-20
 [[book/cyrene/2026-8-20\|2026-8-20]]
+## Chapter 6 / Daily Routine / 2026-10-11
+[[book/cyrene/2026-10-11\|2026-10-11]]
