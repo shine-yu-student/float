@@ -10,3 +10,5 @@
 ---
 ## Character Card / 角色设定卡
 [[book/cyrene_characters\|cyrene_characters]]
+## Timeline / 时间线
+[[book/cyrene_timeline\|cyrene_timeline]]
