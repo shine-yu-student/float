@@ -14,3 +14,5 @@
 [[book/cyrene/2026-8-20\|2026-8-20]]
 ## Chapter 6 / Daily Routine / 2026-10-11
 [[book/cyrene/2026-10-11\|2026-10-11]]
+## Chapter 7 / Selfie / 2026-10-12
+[[book/cyrene/2026-10-12\|2026-10-12]]
