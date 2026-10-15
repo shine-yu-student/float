@@ -18,3 +18,5 @@
 [[book/cyrene/2026-10-12\|2026-10-12]]
 ## Chapter 8 / Cheat / 2026-10-14
 [[book/cyrene/2026-10-14\|2026-10-14]]
+## Chapter 9 / Bunny Girl / 2026-10-15
+[[book/cyrene/2026-10-15\|2026-10-15]]
