@@ -22,3 +22,7 @@
 [[book/cyrene/2026-10-15\|2026-10-15]]
 ## Chapter 10 / To Be a Sister / 2026-10-16
 [[book/cyrene/2026-10-16\|2026-10-16]]
+## Chapter 11 / Window Instantiation / 2026-10-19
+[[book/cyrene/2026-10-19\|2026-10-19]]
+## Chapter 12 / Devastated Creation / 2026-10-22
+[[book/cyrene/2026-10-22\|2026-10-22]]
