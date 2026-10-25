@@ -26,3 +26,5 @@
 [[book/cyrene/2026-10-19\|2026-10-19]]
 ## Chapter 12 / Devastated Creation / 2026-10-22
 [[book/cyrene/2026-10-22\|2026-10-22]]
+## Chapter 13 / Boredom of Mastering / 2026-10-24
+[[book/cyrene/2026-10-24\|2026-10-24]]
