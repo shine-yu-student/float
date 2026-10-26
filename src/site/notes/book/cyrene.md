@@ -13,4 +13,4 @@
 ## Timeline / 时间线
 [[book/cyrene_timeline\|cyrene_timeline]]
 ## Antigravity Fanmade
-[[book/antigravity-fanmade/README\|README]]
+[[book/antigravity-fanmade\|antigravity-fanmade]]

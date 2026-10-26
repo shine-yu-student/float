@@ -28,3 +28,5 @@
 [[book/cyrene/2026-10-22\|2026-10-22]]
 ## Chapter 13 / Boredom of Mastering / 2026-10-24
 [[book/cyrene/2026-10-24\|2026-10-24]]
+## Chapter 14 / A Sense of Responsibility / 2026-10-26
+[[book/cyrene/2026-10-26\|2026-10-26]]
