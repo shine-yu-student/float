@@ -30,3 +30,5 @@
 [[book/cyrene/2026-10-24\|2026-10-24]]
 ## Chapter 14 / A Sense of Responsibility / 2026-10-26
 [[book/cyrene/2026-10-26\|2026-10-26]]
+## Chapter 15 / Reconciliation II / 2026-10-27
+[[book/cyrene/2026-10-27\|2026-10-27]]
