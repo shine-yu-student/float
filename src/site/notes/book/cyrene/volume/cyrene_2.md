@@ -32,3 +32,5 @@
 [[book/cyrene/2026-10-26\|2026-10-26]]
 ## Chapter 15 / Reconciliation II / 2026-10-27
 [[book/cyrene/2026-10-27\|2026-10-27]]
+## Chapter 16 / Selfmade Marionette / 2026-10-28
+[[book/cyrene/2026-10-28\|2026-10-28]]

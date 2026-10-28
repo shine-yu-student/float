@@ -10,3 +10,5 @@
 [[travel/My Virtual NOI in 2025\|My Virtual NOI in 2025]]
 ## Extend 4 / CSP-S 2025 / Candidate Ascension
 [[travel/CSP-S 2025 游记\|CSP-S 2025 游记]]
+## Extend 5 / CSP-S 2026 / Operation Backfire
+[[travel/csps2026\|csps2026]]
