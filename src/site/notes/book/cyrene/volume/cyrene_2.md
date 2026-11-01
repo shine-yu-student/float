@@ -34,3 +34,5 @@
 [[book/cyrene/2026-10-27\|2026-10-27]]
 ## Chapter 16 / Selfmade Marionette / 2026-10-28
 [[book/cyrene/2026-10-28\|2026-10-28]]
+## Chapter 17 / Athletic Chef / 2026-11-1
+[[book/cyrene/2026-11-1\|2026-11-1]]
