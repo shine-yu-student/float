@@ -36,3 +36,5 @@
 [[book/cyrene/2026-10-28\|2026-10-28]]
 ## Chapter 17 / Athletic Chef / 2026-11-1
 [[book/cyrene/2026-11-1\|2026-11-1]]
+## Chapter 18 / Petrichor / 2026-11-6
+[[book/cyrene/2026-11-6\|2026-11-6]]
