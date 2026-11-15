@@ -12,3 +12,5 @@
 [[travel/CSP-S 2025 游记\|CSP-S 2025 游记]]
 ## Extend 5 / CSP-S 2026 / Operation Backfire
 [[travel/csps2026\|csps2026]]
+## Extend 6 / NOIP 2026 / Signal Detected: Revival
+[[travel/noip2026\|noip2026]]
