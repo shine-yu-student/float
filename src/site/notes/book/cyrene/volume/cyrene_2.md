@@ -38,3 +38,5 @@
 [[book/cyrene/2026-11-1\|2026-11-1]]
 ## Chapter 18 / Petrichor / 2026-11-6
 [[book/cyrene/2026-11-6\|2026-11-6]]
+## Chapter 19 / Black and White Pedals / 2026-11-10
+[[book/cyrene/2026-11-10\|2026-11-10]]
